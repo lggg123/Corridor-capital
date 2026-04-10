@@ -231,7 +231,7 @@ export default function FundingApplicationModal({ striverScore, onClose }: Props
             <p className="font-mono" style={{ color: "#C9A84C" }}>{state.walletAddress}</p>
           </div>
           <p className="text-white/60 text-sm mb-6">
-            By signing, you agree to the Corridor Capital terms and authorize this application.
+            By signing, you agree to the Corridor Capita terms and authorize this application.
           </p>
           <div className="flex gap-3">
             <button onClick={goPrev} className="flex-1 py-3 rounded-xl border border-white/20 text-white/70">

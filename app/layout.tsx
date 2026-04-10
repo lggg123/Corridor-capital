@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "The Corridor Capital — Funding the Underestimated",
+  title: "Corridor Capita — Funding the Underestimated",
   description:
-    "The Corridor Capital is a community-powered funding platform for underestimated founders.",
+    "Corridor Capita is a community-powered funding platform for underestimated founders.",
 };
 
 export default function RootLayout({
